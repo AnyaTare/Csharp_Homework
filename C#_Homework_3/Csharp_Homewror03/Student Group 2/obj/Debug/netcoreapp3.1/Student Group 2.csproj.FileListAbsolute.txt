@@ -1,0 +1,13 @@
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\bin\Debug\netcoreapp3.1\Student Group 2.exe
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\bin\Debug\netcoreapp3.1\Student Group 2.deps.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\bin\Debug\netcoreapp3.1\Student Group 2.runtimeconfig.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\bin\Debug\netcoreapp3.1\Student Group 2.runtimeconfig.dev.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\bin\Debug\netcoreapp3.1\Student Group 2.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\bin\Debug\netcoreapp3.1\Student Group 2.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\obj\Debug\netcoreapp3.1\Student Group 2.csprojAssemblyReference.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\obj\Debug\netcoreapp3.1\Student Group 2.AssemblyInfoInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\obj\Debug\netcoreapp3.1\Student Group 2.AssemblyInfo.cs
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\obj\Debug\netcoreapp3.1\Student Group 2.csproj.CoreCompileInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\obj\Debug\netcoreapp3.1\Student Group 2.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\obj\Debug\netcoreapp3.1\Student Group 2.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Student Group 2\obj\Debug\netcoreapp3.1\Student Group 2.genruntimeconfig.cache

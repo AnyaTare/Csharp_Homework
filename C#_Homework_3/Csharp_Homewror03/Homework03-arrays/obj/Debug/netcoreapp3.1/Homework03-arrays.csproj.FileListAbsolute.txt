@@ -1,0 +1,13 @@
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\bin\Debug\netcoreapp3.1\Homework03-arrays.exe
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\bin\Debug\netcoreapp3.1\Homework03-arrays.deps.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\bin\Debug\netcoreapp3.1\Homework03-arrays.runtimeconfig.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\bin\Debug\netcoreapp3.1\Homework03-arrays.runtimeconfig.dev.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\bin\Debug\netcoreapp3.1\Homework03-arrays.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\bin\Debug\netcoreapp3.1\Homework03-arrays.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\obj\Debug\netcoreapp3.1\Homework03-arrays.csprojAssemblyReference.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\obj\Debug\netcoreapp3.1\Homework03-arrays.AssemblyInfoInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\obj\Debug\netcoreapp3.1\Homework03-arrays.AssemblyInfo.cs
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\obj\Debug\netcoreapp3.1\Homework03-arrays.csproj.CoreCompileInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\obj\Debug\netcoreapp3.1\Homework03-arrays.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\obj\Debug\netcoreapp3.1\Homework03-arrays.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework_3\Csharp_Homewror03\Homework03-arrays\obj\Debug\netcoreapp3.1\Homework03-arrays.genruntimeconfig.cache
