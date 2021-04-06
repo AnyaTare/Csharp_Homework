@@ -1,0 +1,13 @@
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\bin\Debug\netcoreapp3.1\WinsDrawsLoses.exe
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\bin\Debug\netcoreapp3.1\WinsDrawsLoses.deps.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\bin\Debug\netcoreapp3.1\WinsDrawsLoses.runtimeconfig.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\bin\Debug\netcoreapp3.1\WinsDrawsLoses.runtimeconfig.dev.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\bin\Debug\netcoreapp3.1\WinsDrawsLoses.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\bin\Debug\netcoreapp3.1\WinsDrawsLoses.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\obj\Debug\netcoreapp3.1\WinsDrawsLoses.csprojAssemblyReference.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\obj\Debug\netcoreapp3.1\WinsDrawsLoses.AssemblyInfoInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\obj\Debug\netcoreapp3.1\WinsDrawsLoses.AssemblyInfo.cs
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\obj\Debug\netcoreapp3.1\WinsDrawsLoses.csproj.CoreCompileInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\obj\Debug\netcoreapp3.1\WinsDrawsLoses.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\obj\Debug\netcoreapp3.1\WinsDrawsLoses.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\WinsDrawsLoses\obj\Debug\netcoreapp3.1\WinsDrawsLoses.genruntimeconfig.cache

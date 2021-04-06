@@ -1,0 +1,13 @@
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\bin\Debug\netcoreapp3.1\MinutesToSeconds.exe
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\bin\Debug\netcoreapp3.1\MinutesToSeconds.deps.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\bin\Debug\netcoreapp3.1\MinutesToSeconds.runtimeconfig.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\bin\Debug\netcoreapp3.1\MinutesToSeconds.runtimeconfig.dev.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\bin\Debug\netcoreapp3.1\MinutesToSeconds.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\bin\Debug\netcoreapp3.1\MinutesToSeconds.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\obj\Debug\netcoreapp3.1\MinutesToSeconds.csprojAssemblyReference.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\obj\Debug\netcoreapp3.1\MinutesToSeconds.AssemblyInfoInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\obj\Debug\netcoreapp3.1\MinutesToSeconds.AssemblyInfo.cs
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\obj\Debug\netcoreapp3.1\MinutesToSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\obj\Debug\netcoreapp3.1\MinutesToSeconds.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\obj\Debug\netcoreapp3.1\MinutesToSeconds.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\MinutesToSeconds\obj\Debug\netcoreapp3.1\MinutesToSeconds.genruntimeconfig.cache

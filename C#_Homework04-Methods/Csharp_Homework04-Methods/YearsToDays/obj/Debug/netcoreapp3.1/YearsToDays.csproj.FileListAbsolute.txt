@@ -1,0 +1,13 @@
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\bin\Debug\netcoreapp3.1\YearsToDays.exe
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\bin\Debug\netcoreapp3.1\YearsToDays.deps.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\bin\Debug\netcoreapp3.1\YearsToDays.runtimeconfig.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\bin\Debug\netcoreapp3.1\YearsToDays.runtimeconfig.dev.json
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\bin\Debug\netcoreapp3.1\YearsToDays.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\bin\Debug\netcoreapp3.1\YearsToDays.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\obj\Debug\netcoreapp3.1\YearsToDays.csprojAssemblyReference.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\obj\Debug\netcoreapp3.1\YearsToDays.AssemblyInfoInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\obj\Debug\netcoreapp3.1\YearsToDays.AssemblyInfo.cs
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\obj\Debug\netcoreapp3.1\YearsToDays.csproj.CoreCompileInputs.cache
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\obj\Debug\netcoreapp3.1\YearsToDays.dll
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\obj\Debug\netcoreapp3.1\YearsToDays.pdb
+C:\Users\Anja Tarevska\Desktop\C#_Homework04-Methods\Csharp_Homework04-Methods\YearsToDays\obj\Debug\netcoreapp3.1\YearsToDays.genruntimeconfig.cache
